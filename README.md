@@ -28,7 +28,7 @@ This group project explores global life expectancy using the **Life Expectancy (
 
 ---
 
-## Dataset Source
+## Data Source
 
 [Life Expectancy (WHO) on Kaggle](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)
 
